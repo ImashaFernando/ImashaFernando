@@ -1,4 +1,8 @@
-# Hi, I'm Imasha Fernando 👋
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=3BA8FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Imasha+Fernando;Information+Systems+Engineering+Undergraduate;Aspiring+Business+Analyst;Java+%7C+Spring+Boot+Developer" />
+
+</p>
 
 ### 🎓 Information Systems Engineering Undergraduate
 
