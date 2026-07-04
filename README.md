@@ -1,9 +1,5 @@
 <p align="center">
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Imasha+Fernando;Information+Systems+Engineering+Student;Business+Analyst+%7C+Java+Developer" />
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Imasha+Fernando;Information+Systems+Engineering+Student;Business+Analyst;Java+Developer;Spring+Boot+Developer" />
 </p>
 
 ### 🎓 Information Systems Engineering Undergraduate
