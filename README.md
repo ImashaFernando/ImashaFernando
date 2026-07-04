@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Imasha Fernando 👋
 
-<!--
-**ImashaFernando/ImashaFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Information Systems Engineering Undergraduate
 
-Here are some ideas to get you started:
+💼 Aspiring Business Analyst | Java Developer | Spring Boot Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Sri Lanka
+
+---
+
+## About Me
+
+I am an Information Systems Engineering undergraduate at SLIIT with a passion for Business Analysis, Enterprise Systems, and Full Stack Web Development.
+
+I enjoy transforming business requirements into practical software solutions while continuously improving my technical and analytical skills.
+
+---
