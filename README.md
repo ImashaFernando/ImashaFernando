@@ -44,3 +44,37 @@ I enjoy transforming business requirements into practical software solutions whi
 ![Business Analysis](https://img.shields.io/badge/Business_Analysis-0052CC?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/BPMN-FF6F00?style=for-the-badge)
 ![Requirements Engineering](https://img.shields.io/badge/Requirements_Engineering-6C63FF?style=for-the-badge)
+
+## 📂 Featured Projects
+
+### 📷 Photography Booking & Management System
+
+Spring Boot | Java | MySQL | Thymeleaf
+
+A web-based photography management system for handling bookings, packages, payments and customer management.
+
+**My Contribution**
+
+- Package Management
+- category Management
+- Shopping Cart
+- UI Development
+
+---
+
+### 📊 Business Analytics Dashboard
+
+Interactive dashboard for visualizing business performance and sales insights.
+
+---
+
+### 🏥 Medical Store Management System
+
+A pharmacy management system designed to streamline medicine inventory, supplier management, billing, and customer transactions.
+
+---
+
+### 💧 Smart Water Tank Monitoring System
+
+IoT-based smart monitoring solution using ESP8266 and Blynk.
+
