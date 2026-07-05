@@ -80,3 +80,116 @@ A pharmacy management system designed to streamline medicine inventory, supplier
 
 IoT-based smart monitoring solution using ESP8266 and Blynk.
 
+---
+
+## 🚀 Currently Learning
+
+- 📊 Business Analysis & Business Process Management
+- ☕ Advanced Java & Spring Boot
+- 📈 Business Intelligence & Data Analytics
+- 🔍 Requirements Engineering
+- ☁ Enterprise Information Systems
+- 🗄 Database Design & Optimization
+
+---
+
+## 🎯 Career Interests
+
+- Business Analyst
+- Systems Analyst
+- IT Business Consultant
+- Java Backend Developer
+- Spring Boot Developer
+- Enterprise Systems Engineer
+
+---
+
+## 🎓 Education
+
+**BSc (Hons) Information Technology**  
+*Specialization in Information Systems Engineering*  
+Sri Lanka Institute of Information Technology (SLIIT)
+
+---
+
+## 📜 Certifications
+
+🏅 AI & Machine Learning Engineer – Stage 1
+
+🏅 AI & Machine Learning Engineer – Stage 2
+
+---
+
+## 🏆 Achievements
+
+- Developed multiple academic software projects
+- Experienced in Agile Development & Scrum
+- Passionate about Business Process Analysis
+- Strong interest in Enterprise Information Systems
+- Active GitHub learner and open-source enthusiast
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ImashaFernando&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ImashaFernando&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImashaFernando&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImashaFernando&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ImashaFernando">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:imashaudari412@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Technology creates opportunities, but understanding business creates solutions."*
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://komarev.com/ghpvc/?username=ImashaFernando&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
+
+</p>
