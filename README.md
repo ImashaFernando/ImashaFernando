@@ -1,204 +1,284 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Imasha Fernando</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=200&section=header&text=Imasha%20Fernando&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Information%20Systems%20Engineering%20%7C%20Business%20Analyst%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descAlignY=58&descSize=18&descColor=BFDBFE" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Information+Systems+Engineering+Student;Aspiring+Business+Analyst;Java+Developer;Spring+Boot+Developer;Building+Business+Driven+Software+Solutions" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImashaFernando&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ImashaFernando?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/ImashaFernando?style=for-the-badge&logo=github" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=38BDF8&background=00000000&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Imasha;Aspiring+Business+Analyst+%F0%9F%93%8A;Java+%26+Spring+Boot+Developer+%E2%98%95;Turning+Ideas+Into+Enterprise+Solutions+%F0%9F%9A%80" />
+---
 
-<br/><br/>
+# 💫 About Me
 
-<img src="https://img.shields.io/badge/📍_Sri_Lanka-1E3A8A?style=for-the-badge&labelColor=0F172A&color=38BDF8" />
-<img src="https://img.shields.io/badge/🎓_SLIIT-1E3A8A?style=for-the-badge&labelColor=0F172A&color=38BDF8" />
-<img src="https://img.shields.io/badge/💼_Business_Analyst-1E3A8A?style=for-the-badge&labelColor=0F172A&color=38BDF8" />
-<a href="https://github.com/ImashaFernando">
-<img src="https://komarev.com/ghpvc/?username=ImashaFernando&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge&labelColor=0F172A" />
-</a>
+🎓 Information Systems Engineering Undergraduate at **SLIIT**
 
-</div>
+💼 Aspiring **Business Analyst**
 
-<br/>
+☕ Passionate **Java & Spring Boot Developer**
 
-<div align="center">
+📊 Interested in **Business Intelligence, Enterprise Systems & Digital Transformation**
 
-![](https://img.shields.io/badge/-%F0%9F%9A%80%20Currently%20building%20with%20Spring%20Boot-0F172A?style=flat-square&labelColor=0F172A)
+🌱 Currently learning **Spring Security, REST APIs, Business Process Management, and Data Analytics**
 
-</div>
+🎯 Goal: To become a professional Business Analyst who bridges the gap between business requirements and technology by developing scalable enterprise solutions.
 
-<br/>
+---
 
-## 👩‍💻 About Me
+# 🚀 Career Objective
 
-I'm an **Information Systems Engineering** undergraduate at **SLIIT**, passionate about **Business Analysis**, **Enterprise Systems**, and **Full Stack Web Development**.
+I am passionate about designing software solutions that solve real-world business problems. My interests combine Business Analysis, Enterprise Information Systems, and Java-based backend development. I enjoy understanding business requirements, analyzing processes, and transforming them into practical, efficient, and user-friendly applications.
 
-I love turning real business problems into clean, practical software — bridging the gap between what a business needs and what code can deliver.
+---
 
-- 🔭 Currently building enterprise-style web apps with **Spring Boot**
-- 📊 Deepening my skills in **Business Process Modelling (BPMN)** & **Requirements Engineering**
-- 🌱 Exploring **Business Intelligence** & **Data Analytics**
-- 🤝 Open to collaborating on **Business Analysis** and **Java/Spring Boot** projects
-- ⚡ Fun fact: I enjoy designing user flows almost as much as writing the backend for them
+# 💻 Tech Stack
 
-<br/>
+## 👨‍💻 Programming Languages
 
-## 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
-<div align="center">
+## 🌐 Frontend Development
 
-**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+## ⚙ Backend Development
 
-**Web Development**
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+## 🗄 Database
 
-**Database**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+## 🛠 Tools & Technologies
 
-**Tools & Design**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea,postman" />
+</p>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+---
 
-**Business & Analysis**
+# 📊 Business Analysis Skills
 
-<img src="https://img.shields.io/badge/Business_Analysis-0052CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BPMN-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Requirements_Engineering-6C63FF?style=for-the-badge" />
+- ✔ Requirements Engineering
+- ✔ Business Process Analysis
+- ✔ BPMN
+- ✔ UML Modeling
+- ✔ Use Case Analysis
+- ✔ Functional Requirement Documentation
+- ✔ Agile & Scrum
+- ✔ System Analysis
+- ✔ Software Documentation
+- ✔ Stakeholder Communication
 
-</div>
+---
 
-<br/>
+# 📂 Featured Projects
 
-## 📂 Featured Projects
+## 📷 Photography Booking & Management System
 
-<table>
-<tr>
-<td width="50%">
+**Tech Stack**
 
-### 📷 Photography Booking & Management System
 `Spring Boot` `Java` `MySQL` `Thymeleaf`
 
-A web-based photography management system handling bookings, packages, payments, and customer management.
+### Features
 
-**My Contribution:**
-- Package & Category Management
+- Photography Package Management
+- Booking Management
+- Customer Management
+- Payment Management
+- Offers Coupons and Promo Codes
+- Shopping Cart
+- Responsive UI
+  
+
+### My Contribution
+
+- Package CRUD
+- Category Management
 - Shopping Cart
 - UI Development
+- Database Integration
 
-</td>
-<td width="50%">
+---
 
-### 📊 Business Analytics Dashboard
-`Data Visualization` `Business Intelligence`
+## 📊 Business Analytics Dashboard
 
-Interactive dashboard for visualizing business performance and sales insights.
+Interactive dashboard designed to visualize business performance, KPIs, and sales insights for better decision-making.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Technologies**
 
-### 🏥 Medical Store Management System
-`Java` `MySQL`
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
 
-A pharmacy management system streamlining medicine inventory, supplier management, billing, and customer transactions.
+---
 
-</td>
-<td width="50%">
+## 🏥 Medical Store Management System
 
-### 💧 Smart Water Tank Monitoring System
-`IoT` `ESP8266` `Blynk`
+A complete pharmacy management system that streamlines medicine inventory, supplier management, billing, and customer transactions.
 
-An IoT-based smart monitoring solution for real-time water level tracking.
+### Features
 
-</td>
-</tr>
-</table>
+- Inventory Management
+- Medicine Management
+- Billing System
+- Supplier Management
+- Customer Records
 
-<br/>
+---
 
-## 🎯 Career Interests
+## 💧 Smart Water Tank Monitoring System
 
-<div align="center">
+IoT-based monitoring system developed using ESP8266 and Blynk.
 
-`Business Analyst` &nbsp;•&nbsp; `Systems Analyst` &nbsp;•&nbsp; `IT Business Consultant` &nbsp;•&nbsp; `Java Backend Developer` &nbsp;•&nbsp; `Spring Boot Developer` &nbsp;•&nbsp; `Enterprise Systems Engineer`
+### Features
 
-</div>
+- Water Level Monitoring
+- Mobile Notifications
+- Real-Time Monitoring
+- IoT Automation
 
-<br/>
+---
 
-## 🎓 Education
+# 🎓 Education
 
-**BSc (Hons) Information Technology**
-*Specialization in Information Systems Engineering*
-Sri Lanka Institute of Information Technology (SLIIT)
+### Sri Lanka Institute of Information Technology (SLIIT)
 
-## 📜 Certifications
+**BSc (Hons) in Information Technology**
 
-- 🏅 AI & Machine Learning Engineer — Stage 1
-- 🏅 AI & Machine Learning Engineer — Stage 2
+**Specialization:** Information Systems Engineering
 
-## 🏆 Achievements
+---
 
-- 🚀 Developed multiple academic software projects
-- 🔄 Experienced in Agile Development & Scrum
-- 📈 Passionate about Business Process Analysis
-- 🏢 Strong interest in Enterprise Information Systems
-- 🌐 Active GitHub learner and open-source enthusiast
+# 📜 Certifications
 
-<br/>
+🏅 AI & Machine Learning Engineer – Stage 1
 
-## 📊 GitHub Stats
+🏅 AI & Machine Learning Engineer – Stage 2
 
-<div align="center">
+---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ImashaFernando&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ImashaFernando&theme=tokyonight&hide_border=true" />
+# 🌱 Currently Learning
 
-<br/>
+- Spring Security
+- REST API Development
+- Business Process Management
+- Business Intelligence
+- Data Analytics
+- Software Architecture
+- Enterprise Systems
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImashaFernando&theme=tokyo-night&hide_border=true" />
+---
 
-<br/><br/>
+# 🎯 Career Interests
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImashaFernando&layout=compact&theme=tokyonight&hide_border=true" />
+- Business Analyst
+- Systems Analyst
+- IT Consultant
+- Java Backend Developer
+- Spring Boot Developer
+- Enterprise Systems Engineer
 
-</div>
+---
 
-<br/>
+# 📈 GitHub Analytics
 
-## 🤝 Let's Connect
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ImashaFernando&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ImashaFernando&theme=tokyonight&hide_border=true"/>
+</p>
 
-<div align="center">
+---
 
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+# 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImashaFernando&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImashaFernando&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ImashaFernando&theme=tokyonight&no-frame=true&column=4"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ImashaFernando/ImashaFernando/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build 10+ Professional Projects
+- 📚 Master Spring Boot
+- 🔐 Learn Spring Security
+- 📊 Improve Business Analysis Skills
+- 🤝 Contribute to Open Source
+- 💼 Secure a Business Analyst Internship
+- ☁ Learn Enterprise Technologies
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
 <a href="https://github.com/ImashaFernando">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/imasha-fernando412">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="mailto:imashaudari412@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://imashafernando.github.io/my-portfolio">
+<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<br/>
+</p>
 
-<div align="center">
+---
 
-> *"Technology creates opportunities, but understanding business creates solutions."*
+# 💬 Quote
 
-### ⭐ Thanks for visiting my profile!
-If you like my work, consider giving a ⭐ to my repositories.
+> **"Turning business ideas into innovative software solutions through technology, analysis, and continuous learning."**
 
-</div>
+---
+
+<h3 align="center">
+⭐ Thank you for visiting my GitHub Profile ⭐
+</h3>
+
+<p align="center">
+If you like my work, don't forget to ⭐ my repositories and connect with me!
+</p>
