@@ -1,12 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Imasha+Fernando;Information+Systems+Engineering+Student;Aspiring+Business+Analyst;Java+%26+Spring+Boot+Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=200&section=header&text=Imasha%20Fernando&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Information%20Systems%20Engineering%20%7C%20Business%20Analyst%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descAlignY=58&descSize=18&descColor=BFDBFE" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Sri_Lanka-38BDF8?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/🎓_SLIIT-0F172A?style=for-the-badge&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=ImashaFernando&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=38BDF8&background=00000000&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Imasha;Aspiring+Business+Analyst+%F0%9F%93%8A;Java+%26+Spring+Boot+Developer+%E2%98%95;Turning+Ideas+Into+Enterprise+Solutions+%F0%9F%9A%80" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Sri_Lanka-1E3A8A?style=for-the-badge&labelColor=0F172A&color=38BDF8" />
+<img src="https://img.shields.io/badge/🎓_SLIIT-1E3A8A?style=for-the-badge&labelColor=0F172A&color=38BDF8" />
+<img src="https://img.shields.io/badge/💼_Business_Analyst-1E3A8A?style=for-the-badge&labelColor=0F172A&color=38BDF8" />
+<a href="https://github.com/ImashaFernando">
+<img src="https://komarev.com/ghpvc/?username=ImashaFernando&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge&labelColor=0F172A" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/-%F0%9F%9A%80%20Currently%20building%20with%20Spring%20Boot-0F172A?style=flat-square&labelColor=0F172A)
 
 </div>
 
