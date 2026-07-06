@@ -1,24 +1,20 @@
 <div align="center">
 
-<!-- Modern Header Banner matching the style in image_c1658a.png -->
+<!-- Modern Header Banner matching the style in image_c16ced.png -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient:90deg,#b45309,#701a75&text=Imasha%20Fernando&fontSize=42&fontColor=ffffff&fontAlignY=45&height=180" width="100%" alt="Header Banner" />
 
-<br/>
-
-<!-- Typing Dynamic Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Information+Systems+Engineering+Student;Aspiring+Business+Analyst;Java+&amp;+Spring+Boot+Developer" alt="Typing SVG" />
-
-🎓 **BSc (Hons) in Information Technology** · Specializing in **Information Systems Engineering** at **SLIIT** 🇱🇰
-
-<br/>
-
-<!-- Flat Custom Minimalist Badges -->
-<a href="https://github.com/ImashaFernando"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/imasha-fernando412"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:imashaudari412@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://imashafernando.github.io/my-portfolio"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-
 </div>
+
+<br/>
+
+&nbsp;&nbsp;🎓 **BSc (Hons) in Information Technology** · Specializing in **Information Systems Engineering** at **SLIIT** 🇱🇰
+
+<br/>
+
+&nbsp;&nbsp;<a href="https://github.com/ImashaFernando"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/imasha-fernando412"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:imashaudari412@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://imashafernando.github.io/my-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 ---
 
