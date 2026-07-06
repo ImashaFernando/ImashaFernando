@@ -220,7 +220,7 @@ IoT-based monitoring system developed using ESP8266 and Blynk.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ImashaFernando&theme=tokyonight&no-frame=true&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ImashaFernando&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
